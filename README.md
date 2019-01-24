@@ -8,6 +8,14 @@ This project created app.js logic for the game _Arcade Game Clone_
 
 ##### Instructions
 
+How to open locally:
+
+* Download or clone the files [here](https://github.com/karlwatson/Classic-Arcade-Game-Close---Udacity-FEND)
+* Extract the zip files if needed
+* Open index.html - this should open in your preferred browser
+* Game should load automatically and you are free to play!
+* You can reload the page to reset the game if desired
+
 How to play:
 
 * Use the keyboard's arrow keys: Up, Down, Left, Right to move your character
